@@ -1,0 +1,33 @@
+.cabecalho{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.osi{
+    background-color: bisque;
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+
+}
+
+.texto {
+    font-size: large;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.titulo{
+    font-size: larger;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    text-align: center;
+}
